@@ -2,7 +2,7 @@
                         #Objetivo: Conocer un poco de los comando básicos de Python
                                 #Estudiantes: Fiorela, Tatiana, Christian
 
-#Control de errores
+#Control de errores HOLA
 try:
 #Creación del diccionario.
     comandos={
