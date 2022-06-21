@@ -48,4 +48,4 @@ try:
 except ValueError:
     print ("¡¡¡ Valor invalido, escribe numeros !!!")
 except: 
-    print ("¡¡¡ Cometiste un error, intenta de nuevo !!!")
+    print ("¡¡¡ Cometiste un error, intenta de nuevo")
