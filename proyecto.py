@@ -49,5 +49,3 @@ except ValueError:
     print ("¡¡¡ Valor invalido, escribe numeros !!!")
 except: 
     print ("¡¡¡ Cometiste un error, intenta de nuevo !!!")
-
-print("Hola, como estan?")
